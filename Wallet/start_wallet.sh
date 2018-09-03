@@ -8,7 +8,7 @@
 ###############################################################################
 
 NODEOSBINDIR="/home/eos/eos/build/programs"
-DATADIR="/home/eos/ibctprivate/Wallet"
+DATADIR="/opt/JungleTestnet/Wallet"
 WALLET_HOST="127.0.0.1"
 WALLET_POSRT="3000"
 
