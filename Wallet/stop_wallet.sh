@@ -5,7 +5,7 @@
 # https://github.com/CryptoLions/EOS-Jungle-Testnet
 #
 ###############################################################################
-DIR="/home/eos/ibctprivate/Wallet"
+DIR="/opt/JungleTestnet/Wallet"
 
     if [ -f $DIR"/wallet.pid" ]; then
         pid=$(cat $DIR"/wallet.pid")
